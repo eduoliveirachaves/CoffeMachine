@@ -1,7 +1,7 @@
 # Simulador de Máquina de Café
 
 Bem-vindo ao Simulador de Máquina de Café, um projeto simples que desenvolvi enquanto aprendia os conceitos básicos de Programação Orientada a Objetos (POO) com Java.
-Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo deste projeto é aprender e praticar POO de forma prática, simulando o funcionamento básico de uma máquina de café. A ideia é entender conceitos como classes, métodos, atributos, e como trabalhar com loops e condições.
 O Que o Simulador Faz?
