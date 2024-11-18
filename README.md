@@ -1,9 +1,12 @@
-This is the *Coffee Machine Simulator with Java* project I made myself.
+# Simulador de Máquina de Café
 
+Bem-vindo ao Simulador de Máquina de Café, um projeto simples que desenvolvi enquanto aprendia os conceitos básicos de Programação Orientada a Objetos (POO) com Java.
+Objetivo do Projeto
 
-<div>
-<p>What can be better than a cup of coffee during a break? A coffee that you don’t have to make yourself. It’s enough to press a couple of buttons on the machine and you get a cup of energy; but first, we should teach the machine how to do it.<br>
-In this project, you'll program a coffee machine simulator using Java. The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino, and latte. Since nothing’s for free, it also collects the money.<br>
-This project allows you to better understand the basic OOP, its main concepts such as classes, class methods and attributes, and get a taste of Java. Practice working with methods, challenge yourself with loops and conditions, and get more confident with OOP.</p>
+O objetivo deste projeto é aprender e praticar POO de forma prática, simulando o funcionamento básico de uma máquina de café. A ideia é entender conceitos como classes, métodos, atributos, e como trabalhar com loops e condições.
+O Que o Simulador Faz?
 
-Here's the link to the project: https://hyperskill.org/projects/33
+  1. Prepara Café: Oferece três opções de café—Espresso, Cappuccino e Latte.
+  2. Gerencia Recursos: Monitora os ingredientes necessários: café, leite, açúcar e copos plásticos.
+  3. Notificações: Informa quando algum ingrediente está em falta.
+  4. Gerencia Dinheiro: Cada café tem um custo, e o valor é acumulado pela máquina.
